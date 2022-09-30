@@ -1,0 +1,9 @@
+-backgound: #171717
+
+:root {
+    background-color: var(--background);
+}
+
+ul {
+    list-style-type: none;
+}
